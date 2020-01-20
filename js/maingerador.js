@@ -14,7 +14,7 @@ var dataHtml =
 '	<meta name="viewport" content="width=device-width, initial-scale=1.0">\n'+
 '	<link href="https://fonts.googleapis.com/css?family=Work+Sans:300,400,500,600,700,900&display=swap" rel="stylesheet">\n'+
 '	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">\n'+
-'	<link rel="stylesheet" href="css/style.css?v4">\n'+
+'	<link rel="stylesheet" href="https://gitcdn.xyz/repo/enrique42/quiz-frst/master/css/style.css">\n'+
 '	<meta name="userteste" content="{UserId} - {UserName}">\n'+
 '</head>\n'+
 '<body>\n'+
@@ -86,7 +86,7 @@ var dataHtml =
 '<script>var questoes = {{{json}}}</script>\n'+
 '<script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.15/lodash.min.js"></script>\n'+
 '<script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.6.10/vue.min.js"></script>\n'+
-'<script src="js/main.js?v7"></script>\n'+
+'<script src="https://gitcdn.xyz/repo/enrique42/quiz-frst/master/js/main.js"></script>\n'+
 '</html>';
 
 function download(filename, text) {
